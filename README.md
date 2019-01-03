@@ -1,7 +1,7 @@
 # planet-hunting
 Queen Mary and Tower Hamlets College project.
 planet hunting with Python.
-QMUL prepared some sample detrended lihght data from Keplar.
+QMUL prepared some sample detrended light data from Keplar.
 
 We wrote some code to phase fold the light curve.
 Basically superimposing each dip on top of one another to get a higher resolution image.
